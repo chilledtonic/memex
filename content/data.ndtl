@@ -1,0 +1,34 @@
+var DATABASE = `
+X264 ENCODING GUIDE
+  PERS : alex
+  LINK : https://bodoicuho.ucoz.ru/
+  TYPE : tool
+  TAGS : encoding, scene, compression
+  DONE : true
+  REVI : true
+
+OSSU COMPUTER SCIENCE
+  LINK : https://github.com/ossu/computer-science
+  TAGS : computer science, technology
+  TYPE : book
+  DONE : true
+
+ISRC LOOKUP
+  LINK : https://isrc.soundexchange.com/#!/
+  TAGS : music, radio
+  TYPE : tool
+  DONE : true
+
+HOW TO MAKE MEAD
+  LINK : https://www.growforagecookferment.com/how-to-make-5-gallons-of-mead/
+  TAGS : crafts, mead
+  TYPE : article
+  DONE : true
+
+PRIVATE SCHOOLS ARE INDEFENSIBLE
+  LINK : https://www.theatlantic.com/magazine/archive/2021/04/private-schools-are-indefensible/618078/
+  TAGS : education
+  TYPE : article
+  DONE : true
+  
+`
