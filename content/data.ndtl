@@ -33,7 +33,25 @@ PRIVATE SCHOOLS ARE INDEFENSIBLE
 
 NEARLY JS
   LINK : https://nearley.js.org/
-  TAGS : javascript, programming
+  TAGS : javascript
   TYPE : tool
   QOTE : Parsers turn strings of characters into meaningful data structures (like a JSON object!)
+
+LYONLABS GEOS
+  LINK : https://www.lyonlabs.org/commodore/onrequest/geos/index.html
+  TAGS : commodore, geos
+  TYPE : list
+  DONE : true
+
+CLEAN CODE JAVASCRIPT
+  LINK : https://github.com/ryanmcdermott/clean-code-javascript
+  TAGS : github, javascript
+  TYPE : article
+  DONE : false
+
+VERISART
+  LINK : https://verisart.com/
+  TYPE : tool
+  TAGS : art collecting, blockchain
+  DONE : true
 `
