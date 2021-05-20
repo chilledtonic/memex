@@ -30,5 +30,10 @@ PRIVATE SCHOOLS ARE INDEFENSIBLE
   TAGS : education
   TYPE : article
   DONE : true
-  
+
+NEARLY JS
+  LINK : https://nearley.js.org/
+  TAGS : javascript, programming
+  TYPE : tool
+  QOTE : Parsers turn strings of characters into meaningful data structures (like a JSON object!)
 `
